@@ -50,3 +50,6 @@ rsconnect/
 
 # Scratch file
 .scratch.R
+
+# Editor artefacts
+*~
